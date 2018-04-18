@@ -116,6 +116,8 @@ checkColumn = function(df,colname) {
 datatable(checkAllCols(full),style = "bootstrap",class = "table-condensed", options = list(dom='tp',scrollx = TRUE))                                          
 
 
+#testing git for shits and giggles
+
 
 
 
